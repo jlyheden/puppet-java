@@ -3,6 +3,8 @@ Module: java
 
 A module to manage package installation of the JVM / JDK. Tested on Ubuntu.
 
+Good source for Debuntu Sun/Oracle packages: https://github.com/flexiondotorg/oab-java6
+
 Usage:
 ------
 
