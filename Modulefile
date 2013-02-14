@@ -1,0 +1,8 @@
+name 'stanlee-java'
+version '0.0.1'
+author 'Johan Lyheden'
+license 'Apache License 2.0'
+project_page 'https://github.com/stanlee/puppet-java'
+source 'git@github.com:stanlee/puppet-java.git'
+summary 'Puppet java module'
+description 'Puppet module for installing different flavors of the JVM and JDK'
